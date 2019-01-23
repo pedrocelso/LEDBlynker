@@ -18,3 +18,4 @@ Basically, there are 2 possible schemas for this, one, using the USB as power so
 ![USB Schema](https://user-images.githubusercontent.com/2895204/51602286-e2644e00-1f06-11e9-93c8-f889d97f1247.PNG)
 
 ### External power source
+![External Power](https://user-images.githubusercontent.com/2895204/51602378-0fb0fc00-1f07-11e9-8a35-563b6a3ff3c9.PNG)
